@@ -1,0 +1,6 @@
+{
+  "palm_ganger.ambient": { "subtitle": "subtitles.palmganger.ambient", "sounds": ["palmganger:sound_1", "palmganger:sound_2"] },
+  "palm_ganger.hurt":    { "subtitle": "subtitles.palmganger.hurt",    "sounds": ["palmganger:sound_3"] },
+  "palm_ganger.angry":   { "subtitle": "subtitles.palmganger.angry",   "sounds": ["palmganger:sound_4"] },
+  "palm_ganger.death":   { "subtitle": "subtitles.palmganger.death",   "sounds": ["palmganger:death"] }
+}

@@ -1,0 +1,8 @@
+{
+  "entity.palmganger.palm_ganger": "PALM GANGER",
+  "item.palmganger.palm_ganger_spawn_egg": "Яйцо призыва PALM GANGER",
+  "subtitles.palmganger.ambient": "PALM GANGER бормочет",
+  "subtitles.palmganger.hurt": "PALM GANGER получает урон",
+  "subtitles.palmganger.angry": "PALM GANGER злится",
+  "subtitles.palmganger.death": "PALM GANGER умирает"
+}
