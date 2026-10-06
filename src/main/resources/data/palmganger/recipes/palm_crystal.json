@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "misc",
+  "pattern": ["BGB", "GDG", "BGB"],
+  "key": { "B": { "item": "palmganger:palm_block" }, "G": { "item": "minecraft:glass" }, "D": { "item": "minecraft:diamond" } },
+  "result": { "item": "palmganger:palm_crystal" } }

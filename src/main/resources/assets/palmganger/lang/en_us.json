@@ -1,8 +1,23 @@
 {
+  "itemGroup.palmganger": "PALM GANGER",
   "entity.palmganger.palm_ganger": "PALM GANGER",
+  "entity.palmganger.palm_ganger_9000": "PALMGANGER 9000",
+  "entity.palmganger.palm_shell": "Palm Shell",
   "item.palmganger.palm_ganger_spawn_egg": "PALM GANGER Spawn Egg",
+  "item.palmganger.palm_ganger_9000_spawn_egg": "PALMGANGER 9000 Spawn Egg",
+  "block.palmganger.palm_ore": "Palm Ganger Ore",
+  "block.palmganger.palm_block": "Palm Ganger Block",
+  "block.palmganger.palm_summoner": "Palm Mayhem",
+  "item.palmganger.palm_crystal": "Palm Ganger Crystal",
+  "item.palmganger.palm_disc": "Music Disc",
+  "item.palmganger.palm_disc.desc": "PALMGANGER 9000 - Theme",
   "subtitles.palmganger.ambient": "PALM GANGER mumbles",
   "subtitles.palmganger.hurt": "PALM GANGER hurts",
   "subtitles.palmganger.angry": "PALM GANGER gets angry",
-  "subtitles.palmganger.death": "PALM GANGER dies"
+  "subtitles.palmganger.death": "PALM GANGER dies",
+  "subtitles.palmganger.boss_ambient": "PALMGANGER 9000 speaks",
+  "subtitles.palmganger.boss_angry": "PALMGANGER 9000 gets angry",
+  "subtitles.palmganger.boss_summon": "PALMGANGER 9000 arrives",
+  "subtitles.palmganger.theme": "PALMGANGER 9000 theme plays",
+  "subtitles.palmganger.disc": "Music Disc plays"
 }

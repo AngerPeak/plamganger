@@ -1,8 +1,23 @@
 {
+  "itemGroup.palmganger": "PALM GANGER",
   "entity.palmganger.palm_ganger": "PALM GANGER",
+  "entity.palmganger.palm_ganger_9000": "PALMGANGER 9000",
+  "entity.palmganger.palm_shell": "Палмовый снаряд",
   "item.palmganger.palm_ganger_spawn_egg": "Яйцо призыва PALM GANGER",
+  "item.palmganger.palm_ganger_9000_spawn_egg": "Яйцо призыва PALMGANGER 9000",
+  "block.palmganger.palm_ore": "Палмганговая руда",
+  "block.palmganger.palm_block": "Блок Палмгангера",
+  "block.palmganger.palm_summoner": "Палмовое ебалово",
+  "item.palmganger.palm_crystal": "Палмганговый кристалл",
+  "item.palmganger.palm_disc": "Музыкальная пластинка",
+  "item.palmganger.palm_disc.desc": "PALMGANGER 9000 - Тема",
   "subtitles.palmganger.ambient": "PALM GANGER бормочет",
   "subtitles.palmganger.hurt": "PALM GANGER получает урон",
   "subtitles.palmganger.angry": "PALM GANGER злится",
-  "subtitles.palmganger.death": "PALM GANGER умирает"
+  "subtitles.palmganger.death": "PALM GANGER умирает",
+  "subtitles.palmganger.boss_ambient": "PALMGANGER 9000 говорит",
+  "subtitles.palmganger.boss_angry": "PALMGANGER 9000 злится",
+  "subtitles.palmganger.boss_summon": "PALMGANGER 9000 прибывает",
+  "subtitles.palmganger.theme": "Играет тема PALMGANGER 9000",
+  "subtitles.palmganger.disc": "Играет пластинка"
 }

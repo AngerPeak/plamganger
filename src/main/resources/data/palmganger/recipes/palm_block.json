@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "building",
+  "pattern": ["OO", "OO"],
+  "key": { "O": { "item": "palmganger:palm_ore" } },
+  "result": { "item": "palmganger:palm_block" } }

@@ -1,5 +1,6 @@
 package com.palmganger;
 
+import com.palmganger.entity.PalmGanger9000Entity;
 import com.palmganger.entity.PalmGangerEntity;
 import com.palmganger.registry.ModEntities;
 import net.minecraft.world.entity.Mob;
@@ -15,6 +16,7 @@ public class ModEvents {
     @SubscribeEvent
     public static void attributes(EntityAttributeCreationEvent event) {
         event.put(ModEntities.PALM_GANGER.get(), PalmGangerEntity.createAttributes().build());
+        event.put(ModEntities.PALM_GANGER_9000.get(), PalmGanger9000Entity.createAttributes().build());
     }
 
     @SubscribeEvent

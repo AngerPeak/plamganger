@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "misc",
+  "pattern": ["BBB", "BCB", "BBB"],
+  "key": { "B": { "item": "palmganger:palm_block" }, "C": { "item": "palmganger:palm_crystal" } },
+  "result": { "item": "palmganger:palm_summoner" } }
